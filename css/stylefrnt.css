@@ -1,0 +1,181 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Borel&family=Roboto:wght@900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Roboto:wght@900&display=swap');
+
+
+.txt{
+    position: absolute;
+   font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 50px;
+   color: rgb(248, 248, 248);
+   /* background-color: white; */
+   display: inline;
+   padding: 1px 6px; 
+}
+.txt-pts h1{
+    font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 42px;
+}
+.call h1{
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    color: #2a9b5b;
+    margin-left: 90px;
+}
+.ab{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 42px;
+   margin-bottom: 10px;
+}
+.ani-abt h2{
+    font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 35px;
+   margin-left: 75px;
+   margin-top: 20px;
+}
+.hrvt1{
+    color: rgb(253, 249, 252);
+   font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 70px;
+   margin-left: 165px;
+   margin-top: 40px;
+}
+.hrvt2{
+    color: rgb(253, 249, 249);
+   font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 70px;
+   margin-left: 205px;
+   margin-top: -20px;
+}
+.top2{
+    color: rgb(170, 95, 40);
+   font-family: "Lilita One", sans-serif;
+   font-weight: 1000;
+   font-size: 43px;
+   margin-bottom: 10px;
+}
+.pts-lt1{
+     color: rgb(170, 95, 40);
+    margin-top: 20px;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 45px;
+}
+.its-txt1{
+     color: rgb(170, 95, 40);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 40px;
+}
+.txt-vst1{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 35px;
+    margin-top: 15px;
+}
+.txt-vist{
+    color: rgb(170, 95, 40);
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 35px;
+}
+.faq-txt2{
+    color: rgb(246, 251, 255);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 35px;
+    margin-top: 16px;
+    margin-bottom: 15px;
+}
+.txt-faq{
+    color: #f1dd6c;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 25px;
+    margin-left: -25px;
+    margin-bottom: 20px;
+}
+.fst-box2{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 43px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.monil-txt1{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.test-txt{
+    color: rgb(170, 95, 40);
+     font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 30px;
+    margin-left: 80px;
+}
+.nav-txt1{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 17px;
+}
+
+
+/* about next section */
+.a2{
+    color: rgb(170, 95, 40);
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 42px;
+    margin-bottom: -10px;
+}
+.menu-txt{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 42px;
+    text-align: center;
+    position: relative;
+    top: 110px;
+}
+
+
+/* products html */
+.prts-txt1{
+    color: rgb(170, 95, 40);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 50px;
+    margin-top: -30px;
+}
+
+/* contact html */
+.box-txt h2{
+    color: rgb(189, 113, 59);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.dts-box h1{
+    color: rgb(189, 113, 59);
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
